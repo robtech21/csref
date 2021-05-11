@@ -5,7 +5,7 @@ A useful C# reference
 
 Example program structure
 
-``` cs
+```cs
 using System;
 
 class Program {
@@ -13,4 +13,21 @@ class Program {
     Console.WriteLine("Hello, World!");
   }
 }
+```
+
+## Method
+
+```cs
+class Program {
+  static void MyMethod() {
+    Console.WriteLine("This is a method")
+  }  
+}
+```
+
+## Data types
+
+```cs
+string text = "text"; // String
+int numberone = 1; // Integer
 ```
